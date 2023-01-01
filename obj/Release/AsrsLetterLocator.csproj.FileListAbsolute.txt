@@ -1,0 +1,14 @@
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\bin\Release\AsrsLetterLocator.exe.config
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\bin\Release\AsrsLetterLocator.exe
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\bin\Release\AsrsLetterLocator.pdb
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\bin\Release\Guna.UI2.dll
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\bin\Release\S7.Net.dll
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\bin\Release\S7.Net.xml
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\obj\Release\AsrsLetterLocator.Form1.resources
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\obj\Release\AsrsLetterLocator.Properties.Resources.resources
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\obj\Release\AsrsLetterLocator.csproj.GenerateResource.cache
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\obj\Release\AsrsLetterLocator.csproj.CoreCompileInputs.cache
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\obj\Release\AsrsLetterLocator.csproj.CopyComplete
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\obj\Release\AsrsLetterLocator.exe
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\obj\Release\AsrsLetterLocator.pdb
+C:\Users\berato\source\repos\AsrsLetterLocator\AsrsLetterLocator\obj\Release\AsrsLetterLocator.csproj.AssemblyReference.cache
